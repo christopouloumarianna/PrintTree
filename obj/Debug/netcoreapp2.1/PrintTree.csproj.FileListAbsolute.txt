@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\PrintTree\PrintTree\bin\Debug\netcoreapp2.1\PrintTree.deps.json
+C:\Users\Admin\source\repos\PrintTree\PrintTree\bin\Debug\netcoreapp2.1\PrintTree.runtimeconfig.json
+C:\Users\Admin\source\repos\PrintTree\PrintTree\bin\Debug\netcoreapp2.1\PrintTree.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\PrintTree\PrintTree\bin\Debug\netcoreapp2.1\PrintTree.dll
+C:\Users\Admin\source\repos\PrintTree\PrintTree\bin\Debug\netcoreapp2.1\PrintTree.pdb
+C:\Users\Admin\source\repos\PrintTree\PrintTree\obj\Debug\netcoreapp2.1\PrintTree.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PrintTree\PrintTree\obj\Debug\netcoreapp2.1\PrintTree.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PrintTree\PrintTree\obj\Debug\netcoreapp2.1\PrintTree.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PrintTree\PrintTree\obj\Debug\netcoreapp2.1\PrintTree.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PrintTree\PrintTree\obj\Debug\netcoreapp2.1\PrintTree.dll
+C:\Users\Admin\source\repos\PrintTree\PrintTree\obj\Debug\netcoreapp2.1\PrintTree.pdb
